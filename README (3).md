@@ -26,6 +26,7 @@ Three classifiers are trained:
 #### Logistic Regression
 #### Decision Tree
 #### Random Forest
+#### Stochastic Gradient Descent
 Each classifier is evaluated on accuracy, precision, recall, and F1-score
 
 ### 5. Manual Output
